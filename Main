@@ -6,7 +6,7 @@ class Node: # Node class
 
         self.next = None
 
-classNames = ['Shahood,', 'Mason,', 'Gavin,', 'Muntag,', 'Leo,', 'Chris,', 'Marcos,', 'Jaiden,', 'Aidan,', 'Ryan',] # list of names
+classNames = ['Shahood--', 'Mason--', 'Gavin--', 'Muntag--', 'Leo--', 'Chris--', 'Marcos--', 'Jaiden--', 'Aidan--', 'Ryan',] # list of names
 
 class LinkedList: # Linked List class
 
